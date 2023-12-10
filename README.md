@@ -1,4 +1,4 @@
-<h1>Vamos começar a contagem regressiva juntos!<h1>
+<h1>Vamos começar a contagem regressiva juntos!</h1>
 
 Projeto Inicial: Countdown Timer - Contagem Regressiva até a Copa do Mundo 2026<br>
 Neste projeto a lógica JavaScript é utilizada para calcular e exibir, em tempo real, os dias, horas, minutos e segundos restantes até o evento. A aplicação faz uso de objetos de data, operadores matemáticos e manipulação do DOM para garantir que a contagem regressiva seja constantemente atualizada.
